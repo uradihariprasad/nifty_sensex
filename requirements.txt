@@ -4,3 +4,4 @@ flask-socketio
 eventlet
 requests
 numpy
+gunicorn
